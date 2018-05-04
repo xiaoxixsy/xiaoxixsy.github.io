@@ -6,14 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jianjing Xu's Blog
-email: xujj15@mails.tsinghua.edu.cn
+title: 小西行寺幽
 description: > # this means to ignore newlines until "baseurl:"
-  Some day my AI will help me write the blogs...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://atlantix.com" # the base hostname & protocol for your site
-twitter_username: Non
-github_username:  AtlantixJJ
 
 # Build settings
 markdown: kramdown
